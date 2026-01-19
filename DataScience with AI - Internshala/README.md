@@ -1,4 +1,4 @@
-CAPSTONE PROJECT
+PROJECT
 
 Market Entry Analysis for ABG Motors (India)
 
